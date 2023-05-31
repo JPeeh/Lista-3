@@ -1,1 +1,1 @@
-# Lista-3
+Aqui está alguns exercícios de programa em c.
